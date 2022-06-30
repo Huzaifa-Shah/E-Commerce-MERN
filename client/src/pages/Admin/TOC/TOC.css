@@ -1,0 +1,19 @@
+.toc_container {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+.toc_content {
+  max-height: 400px;
+  overflow: scroll;
+}
+.toc_content_details {
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+.toc_agree_checkbox {
+  width: 20%;
+  display: flex;
+  justify-content: space-between;
+  padding: 0.3rem 0;
+  margin: 2rem 1rem;
+}

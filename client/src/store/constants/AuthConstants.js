@@ -1,0 +1,22 @@
+export const SET_LOADER = "SET_LOADER";
+export const CLOSE_LOADER = "CLOSE_LOADER";
+export const SET_TOKEN = "SET_TOKEN";
+export const REGISTER_ERRORS = "REGISTER_ERRORS";
+export const LOGOUT = "LOGOUT";
+export const LOGIN_ERRORS = "LOGIN_ERRORS";
+
+// Google 
+export const GOOGLE_TOKEN = 'GOOGLE_TOKEN'
+export const GOOGLE_ERRORS = 'GOOGLE_ERRORS'
+export const GOOGLE_USER = 'GOOGLE_USER'
+export const GOOGLE_LOGOUT = 'GOOGLE_LOGOUT'
+
+//Delete User
+export const USER_DELETE_REQUEST = 'USER_DELETE_REQUEST'
+export const USER_DELETE_SUCCESS = 'USER_DELETE_SUCCESS'
+export const USER_DELETE_FAIL = 'USER_DELETE_FAIL'
+
+//Update Admin
+export const ADMIN_UPDATE_REQUEST = 'ADMIN_UPDATE_REQUEST'
+export const ADMIN_UPDATE_SUCCESS = 'ADMIN_UPDATE_SUCCESS'
+export const ADMIN_UPDATE_FAIL = 'ADMIN_UPDATE_FAIL'
